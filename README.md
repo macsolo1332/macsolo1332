@@ -12,7 +12,7 @@ Developer, Designer
 
 
 
-### Skills
+## <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
 
 <p align="left">
@@ -35,7 +35,10 @@ Developer, Designer
 
 ### Socials
 
-<p align="left">  <a href="https://github.com/macsolo1332" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<p align="left">  
+  <a href="https://www.facebook.com/akash.suresh.1232?mibextid=ZbWKwL" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
+  <a href="https://github.com/macsolo1332" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+  <a href="http://www.instagram.com/mac_solo_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
   <a href="https://www.linkedin.com/in/akashsuresh-aab005209" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
  </p>
 
